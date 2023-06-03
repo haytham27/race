@@ -1,0 +1,360 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first-sec{
+    height: 800px;
+    background-image: url("blue_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+
+
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+   padding: 70px;
+}
+.left-side{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link a{
+  padding-left: 10px;
+ text-decoration: none;
+ color: rgb(116, 115, 115);
+}
+.second-side .img1{
+   display: flex;
+   position: relative;
+  height: 30px;
+  
+}
+.second-side p{
+    position: absolute;
+    right: 30px;
+    top: 5px;
+
+}
+.second-section{
+    display: flex;
+    justify-content: space-around;
+}
+.ahmed{
+display: flex;
+justify-content: space-around;
+margin-top: 250px;
+
+}
+.ahmed .pra{
+    width: 400px;
+   margin-top: -50px;
+  
+  
+  
+}
+.ahmed .pra p{
+font-size: 20px;
+}
+.ahmed .pra h1{
+    font-size: 40px;
+    padding: 0, 0, 20px; 
+    margin-bottom: 10px;
+ }
+ .pra .del{
+    text-decoration: none;
+ }
+.pic{
+    position: relative;
+}
+.pic .p1{
+    position: absolute;
+  left: -490px;
+   top: -300px;
+    width: 710px;
+}
+.pic .p2{
+    position: absolute;
+width: 300px;
+  right: 10px;
+top: -260px;
+}
+.pic .p3{
+    position: absolute;
+    width: 350px;
+    right: -15px;
+    bottom: -250px;
+}
+.waves .p4{
+    position: absolute;
+  left: 5px;
+    top: 670px;
+  width: 1100px;
+}
+.second-sec{
+    background-image: url("second_section_.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+   margin-top: -50px;
+   margin-left: 150px;
+  
+}
+.second-sec {
+ display: flex;
+ align-items: center;
+ 
+}
+.second-sec .fast1{
+    margin-bottom: 200px;
+    margin-left: -70px;
+    width: 290px;
+   
+    
+}
+.fast1 h1{
+    font-size: 20px;
+    color: rgb(142, 136, 136);
+    margin-left: 40px;
+}
+.fast1 .fs{
+   margin-top: 6px;
+}
+
+.fast1 .p1{
+    font-size: 18px;
+    color: rgb(142, 136, 136);
+    margin-left: 10px;
+}
+.fast1 .p2{
+    font-size: 18px;
+    color: rgb(142, 136, 136);
+}
+.fast2{
+    margin-left: 270px;
+    margin-top: 120px;
+    width: 350px;
+}
+.fast2 h1{
+    font-size: 20px;
+    color: rgb(142, 136, 136);
+    margin-left: 80px;
+  
+}
+.fast2 .fa{
+    margin-top: 6px;
+}
+.fast2 .fa p{
+    margin-top: 3px;
+}
+.fast2 .pp1{
+    font-size: 18px;
+    color: rgb(142, 136, 136);
+}
+.fast2 .pp2{
+    font-size: 18px;
+    color: rgb(142, 136, 136);
+    margin-left: 40px;
+}
+.fast3{
+    margin-left: -890px;
+    margin-top: 750px;
+    width: 350px;
+      
+}
+.fast3{
+   display: flex;
+   align-items: center;
+
+}
+.fast3 p{
+    position: absolute;
+    z-index: 1;
+    margin-left: 90px;
+    color: aliceblue;
+    margin-top: -50px;
+}
+.fast3 h1{
+    position: absolute;
+    z-index: 1;
+    margin-left: 90px;
+    color: aliceblue;
+    margin-top: 10px;
+    font-size: 30px;
+}
+.fast4{
+    margin-top: 820px;
+    margin-left: 720px;
+}
+.fast4 .di{
+    margin-top: 6px;
+}
+.fast4 .di p{
+    margin-top: 3px;
+}
+.fast4 h1{
+    font-size: 22px;
+    color: rgb(142, 136, 136);
+    margin-left: 80px;
+}
+.fast4 .ppp1{
+    font-size: 17px;
+    color: rgb(142, 136, 136);
+    margin-left: -30px;
+}
+.fast4 .ppp2{
+    font-size: 17px;
+    color: rgb(142, 136, 136);
+    margin-left: -40px;
+}
+.third-sec{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+
+.third2{
+    width: 250px;
+    margin-left: -90px;
+  
+}
+.third2 img{
+   margin-left: -70px;
+ 
+  margin-top: -100px;
+}
+.third2 h1{
+ font-size: 16.5px;
+ color: rgb(142, 136, 136);
+}
+.third2 p{
+    color: rgb(142, 136, 136);
+    
+}
+.third2 .rr{
+    margin-left: 40px;
+    margin-left: 3px;
+   }
+.third2 .rrr{
+ margin-left: 35px;
+}
+.third2 .paragraph{
+    margin-left: 60px;
+    margin-top: -25px;
+}
+.third2 .paragraph p{
+   margin-top: 5px;
+}
+.third2 .paragraph h1{
+   margin-bottom: 20px;
+}
+.third3{
+    margin-top: 45px;
+   margin-left: -50px;
+}
+.third1{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.fourth-sec{
+    background-image: url("Group\ 1131.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 1900px;
+    height: 700px;
+    
+}
+.last1{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+
+}
+.but {
+margin-top: 450px;
+margin-left: 60px;
+}
+.but .icons{
+margin-bottom: 10px;
+margin-left: 20px;
+}
+.button{
+    margin-bottom: 30px;
+   display: flex;
+   justify-content: space-around;
+ margin-left: 10px;
+}
+.but1{
+    display: flex;
+    position: relative;
+}
+.but1 .pl{
+   position: absolute;
+   left: 10px;
+   top: 5px;
+    
+}
+.but1 .pl1{
+   position: absolute;
+   left: 47px;
+   top: 20px;
+    font-size: 13px;
+}
+.but1 input{
+   border-radius: 10px;
+    width: 110px;
+    height: 45px;
+    border: none;
+    
+}
+.but2{
+    display: flex;
+position: relative;
+}
+.but2 .ppl{  
+position: absolute;
+left: 10px;
+top: 5px;
+}
+.but2 .ppl1{
+   position: absolute;
+left: 40px;
+font-size: 13px;
+top: 20px;
+}
+.but2 input{
+    border-radius: 10px;
+     width: 110px;
+     height: 45px;
+     border: none;
+ }
+.fo1{
+    margin-top:165px;
+    margin-left: 320px;
+}
+.icons img{
+   margin: 5px;
+}
+.lin a{
+   margin-left: 25px;
+   text-decoration: none;
+   font-size:15px;
+  color: aliceblue;
+}
+
+
+   
+
+
+
+
+
+
+
+
+  
